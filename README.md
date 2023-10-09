@@ -17,7 +17,7 @@ This project provides a comprehensive analysis and prediction of house prices in
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11.4
 - NumPy
 - Pandas
 - Matplotlib
